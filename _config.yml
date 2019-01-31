@@ -17,3 +17,11 @@ defaults:
       path: ""
     values:
       layout: "default"
+      
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
