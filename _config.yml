@@ -25,3 +25,5 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+theme: jekyll-theme-hacker
